@@ -184,23 +184,20 @@ Naver API로 실시간 뉴스 조회
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?logo=ubuntu)
 ![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-orange?logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-Dashboard-F46800?logo=grafana)
-
+<br>
+<br>
 
 ## 🔍 시스템 아키텍처
-![image](/uploads/f3ea4e35631592b9352daf236f0cc041/image.png){width=792 height=497}
-
+<img width="792" alt="architect" src="https://github.com/user-attachments/assets/599d4f6d-6cea-45e0-9a98-2b62370fd9c7" /><br>
+<br>
 
 ## 💾 ERD Diagram
-![image](/uploads/c026cec944b592c293132a059f34db21/image.png){width=903 height=417}
-
+<img width="903" alt="erd" src="https://github.com/user-attachments/assets/63473387-dfc6-4930-b6a0-abaa49beead3" /><br>
+<br>
 
 ## 👥 우아한 자매들
-
 우아한 자매들은 프론트엔드 3명, 백엔드 3명으로 구성된 팀입니다.
-
-![image](/uploads/aa310f5cbadb5743ac0b922bf1ca6731/image.png){width=700 height=400}
-
-
+<img width="700" alt="Image" src="https://github.com/user-attachments/assets/67158e6e-08f1-4587-ac20-57be5e497968" /><br>
 | Frontend | Frontend | Frontend | Backend | Backend | Backend |
 |--------------|--------------|--------------|--------------|----------|--------------|
 | 순화 👑 | 가영 | 미연 | 수비 | 시윤 | 나금 |
