@@ -51,8 +51,6 @@
 <br>
 
 ### 🔧 기능 소개
-서비스의 주요 기능들을 소개합니다.
-
 #### ✅ 메인
 - 메인화면에서 모든 서비스를 이용할 수 있음
 <img width="1852" height="3298" alt="home" src="https://github.com/user-attachments/assets/adf0ac01-c448-423b-a4dd-80a350df6c0f" />
