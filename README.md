@@ -44,7 +44,6 @@
 ### 🎯 목표 및 주요 기능
 
 **데이터 기반 의사결정 지원**
-
 공공 빅데이터와 데이터 분석을 통한 객관적인 지역 정보 제공
 사용자 우선순위를 반영한 맞춤형 추천 알고리즘 적용
 
@@ -55,73 +54,61 @@
 
 
 ### 🔧 기능 소개
-
 서비스의 주요 기능들을 소개합니다.
 
 #### ✅ 메인
-
 메인화면에서 모든 서비스를 이용할 수 있음 
-
 ![image](/uploads/03a9b270aada745ab15c17af36628163/image.png){width=2137 height=1146}
 ![image](/uploads/9a41466e94dc97a3bdce77ae49947404/image.png){width=2136 height=975}
 ![image](/uploads/66f1f6d47409f2439d1ec4a90f4881b9/image.png){width=2126 height=883}
 
 #### ✅ 회원가입
-
 이메일과 비밀번호로 회원가입
-
 ![image](/uploads/4c1317059de606343e7b2e02608ab081/image.png){width=1377 height=1038}
 
 #### ✅ 설문조사
-
-맞춤형 리포트를 제공받기 위한 설문조사 
-
-![image](/uploads/c8795bf729c2cc813dd44c6cc5acb176/image.png){width=1424 height=1014}
-![image](/uploads/b32bca384034555c15e3002bf895012b/image.png){width=1275 height=582}
+맞춤형 리포트를 제공받기 위한 설문조사
+<img width="1424" alt="Image" src="https://github.com/user-attachments/assets/5ecf0a55-61c3-4c47-a141-deb03f9c6a4a" />
+<img width="1275" alt="Image" src="https://github.com/user-attachments/assets/8a9d58ed-64ab-4ff4-9af5-e0e6a0ae77c7" />
 
 
 #### ✅ 지역 추천 리포트 
-
-사용자가 한 설문조사를 기반으로 우선순위(환경, 교통, 인프라, 생활)에 따른 개인화된 지역 추천
-
-![image](/uploads/8715edbef3b6ea7ff88d39a9ef02b6b2/image.png){width=1422 height=1131}
-![image](/uploads/6a311e986ee41ada564f7cbfecdff4f8/image.png){width=1422 height=1131}
+- 사용자가 한 설문조사를 기반으로 우선순위(환경, 교통, 인프라, 생활)에 따른 개인화된 지역 추천
+<img width="1422" height="1508" alt="Image" src="https://github.com/user-attachments/assets/18c9c039-b456-4cd5-b3ce-e4130a327eaf" />
+<img width="1422" height="1173" alt="Image" src="https://github.com/user-attachments/assets/633015b9-53d3-432a-916c-4b429a5767a1" />
 
 
 #### ✅ 작물 예상 수익 계산기
-
-총 경지 면적과 작물을 선택하면 연간 예상 수확량과 월별 1kg당 매출 추이 및 예측 그래프 확인
-
-![image](/uploads/66741214da58e878296f628e3bd241ed/어디가농_-_영상포폴_시연.mp4_snapshot_01.27__2025.06.04_15.13.19_.jpg)
-![image](/uploads/eeff58827064c5328621e247264dea90/어디가농_-_영상포폴_시연.mp4_snapshot_01.31__2025.06.04_15.13.36_.jpg)
-
+- 총 경지 면적과 작물을 선택하면 연간 예상 수확량과 월별 1kg당 매출 추이 및 예측 그래프 확인
+![cal1](https://github.com/user-attachments/assets/f953a30e-2750-4fa0-b8a5-b2a55561b085)
+![cal2](https://github.com/user-attachments/assets/a0d2454d-074e-428b-aeb5-26fd34be2125)
 
 #### ✅ 마이페이지 
-제공된 귀농 리포트, 예상 수익 리포트 조회 
-회원 정보 수정 및 정보 조회 
-![image](/uploads/52e7c52a2ae001f935ce4030f04b4b86/image.png){width=1212 height=830}
-![image](/uploads/9abb4ac39fd8a2c275ef5cf7bfb33e9b/image.png){width=1220 height=824}
+- 제공된 귀농 리포트, 예상 수익 리포트 조회 
+- 회원 정보 수정 및 정보 조회 
+<img width="1212" alt="Image" src="https://github.com/user-attachments/assets/baf051a1-c42a-4b3b-a2f5-f24c0f7962de" />
+<img width="1200" alt="Image" src="https://github.com/user-attachments/assets/ef9ef8a7-6835-4740-92f4-918841ebf37f" />
 
 #### ✅ 멘토 & 멘티 
-지도에서 지역 선택 후 멘토 조회
+- 지도에서 지역 선택 후 멘토 조회
 <img width="1212" alt="mentor1" src="https://github.com/user-attachments/assets/9ccadcf2-09a7-4d48-ada5-7d96c1cbb38f" />
 <img width="1212" alt="mentor2" src="https://github.com/user-attachments/assets/6e95482b-f982-400d-b71a-4b0369712b0e" />
 
 #### ✅ 실시간 채팅
-실시간 채팅과 실시간 알림 조회 
+- 실시간 채팅과 실시간 알림 조회 
 <img width="1326" alt="chat" src="https://github.com/user-attachments/assets/497282b6-f61f-4314-8c08-51f029d84f48" />
 <img width="1387" alt="alarm" src="https://github.com/user-attachments/assets/0f033784-9565-4c10-b7eb-d7a1555519ae" />
 
 #### ✅ 멘토 등록
-회원가입한 멘티는 멘토로 등록 가능
+- 회원가입한 멘티는 멘토로 등록 가능
 <img width="1142" alt="create" src="https://github.com/user-attachments/assets/e536a5f2-1574-46cf-b4c2-620ee4c1fa7c" />
 
 #### ✅ 뉴스
-Naver API로 실시간 뉴스 조회 
+- Naver API로 실시간 뉴스 조회 
 <img width="1362" alt="news" src="https://github.com/user-attachments/assets/12b166bf-9766-4838-b48a-fce1f6559049" />
 
 #### ✅ 지원 정책 
-웹 크롤링으로 데이터 수집 후 지역별 지원 정책 조회
+- 웹 크롤링으로 데이터 수집 후 지역별 지원 정책 조회
 <img width="1364" height="1478" alt="11-1" src="https://github.com/user-attachments/assets/235dfa8a-cabc-451a-b934-8ebbee4d68fc" />
 <img width="1308" height="1086" alt="11-2" src="https://github.com/user-attachments/assets/84f5f4ed-d83e-41c2-bdd7-4c90b4c80ce4" />
 <br>
