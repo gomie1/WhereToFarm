@@ -57,17 +57,17 @@
 서비스의 주요 기능들을 소개합니다.
 
 #### ✅ 메인
-메인화면에서 모든 서비스를 이용할 수 있음 
+- 메인화면에서 모든 서비스를 이용할 수 있음 
 ![image](/uploads/03a9b270aada745ab15c17af36628163/image.png){width=2137 height=1146}
 ![image](/uploads/9a41466e94dc97a3bdce77ae49947404/image.png){width=2136 height=975}
 ![image](/uploads/66f1f6d47409f2439d1ec4a90f4881b9/image.png){width=2126 height=883}
 
-#### ✅ 회원가입
-이메일과 비밀번호로 회원가입
-![image](/uploads/4c1317059de606343e7b2e02608ab081/image.png){width=1377 height=1038}
+#### ✅ 회원가입/로그인
+- 이메일과 비밀번호로 회원가입 및 로그인
+<img width="1377" alt="login" src="https://github.com/user-attachments/assets/c3b1915f-97a4-42f1-a660-61d4c953b7b1" />
 
 #### ✅ 설문조사
-맞춤형 리포트를 제공받기 위한 설문조사
+- 맞춤형 리포트를 제공받기 위한 설문조사
 <img width="1424" alt="Image" src="https://github.com/user-attachments/assets/5ecf0a55-61c3-4c47-a141-deb03f9c6a4a" />
 <img width="1275" alt="Image" src="https://github.com/user-attachments/assets/8a9d58ed-64ab-4ff4-9af5-e0e6a0ae77c7" />
 
