@@ -97,52 +97,37 @@
 
 
 #### ✅ 마이페이지 
-
 제공된 귀농 리포트, 예상 수익 리포트 조회 
 회원 정보 수정 및 정보 조회 
-
 ![image](/uploads/52e7c52a2ae001f935ce4030f04b4b86/image.png){width=1212 height=830}
 ![image](/uploads/9abb4ac39fd8a2c275ef5cf7bfb33e9b/image.png){width=1220 height=824}
 
-
 #### ✅ 멘토 & 멘티 
-
 지도에서 지역 선택 후 멘토 조회
-
-![image](/uploads/54a31863bd63794bc833f163d532a482/image.png){width=1212 height=919}
-![image](/uploads/007f5ae1f737596cb96da0ad0cc5fe7a/image.png){width=1212 height=919}
-
+<img width="1212" alt="mentor1" src="https://github.com/user-attachments/assets/9ccadcf2-09a7-4d48-ada5-7d96c1cbb38f" />
+<img width="1212" alt="mentor2" src="https://github.com/user-attachments/assets/6e95482b-f982-400d-b71a-4b0369712b0e" />
 
 #### ✅ 실시간 채팅
-
 실시간 채팅과 실시간 알림 조회 
-
-![image](/uploads/a35f5b02f283d4368a2e1836198da99d/image.png){width=1326 height=1125}
-![image](/uploads/1fb6af7ad2f4373a09e587e8053ba9fc/image.png){width=1387 height=450}
+<img width="1326" alt="chat" src="https://github.com/user-attachments/assets/497282b6-f61f-4314-8c08-51f029d84f48" />
+<img width="1387" alt="alarm" src="https://github.com/user-attachments/assets/0f033784-9565-4c10-b7eb-d7a1555519ae" />
 
 #### ✅ 멘토 등록
-
-회원가입한 멘티는 멘토로 등록 가능 
-
-![image](/uploads/018e15a35c26decff0553def661965cd/image.png){width=1142 height=896}
+회원가입한 멘티는 멘토로 등록 가능
+<img width="1142" alt="create" src="https://github.com/user-attachments/assets/e536a5f2-1574-46cf-b4c2-620ee4c1fa7c" />
 
 #### ✅ 뉴스
-
 Naver API로 실시간 뉴스 조회 
-
-![image](/uploads/4b133502ec665d5914f1fb001762ccf7/image.png){width=1362 height=1070}
-
+<img width="1362" alt="news" src="https://github.com/user-attachments/assets/12b166bf-9766-4838-b48a-fce1f6559049" />
 
 #### ✅ 지원 정책 
-
 웹 크롤링으로 데이터 수집 후 지역별 지원 정책 조회
-
-![image](/uploads/a51f3ec0f03d1a1717baaadad2655cab/image.png){width=1364 height=1109}
-![image](/uploads/fb243842c71b8be1fd121edbd8b1ffb4/image.png){width=1308 height=815}
-
+<img width="1364" height="1478" alt="11-1" src="https://github.com/user-attachments/assets/235dfa8a-cabc-451a-b934-8ebbee4d68fc" />
+<img width="1308" height="1086" alt="11-2" src="https://github.com/user-attachments/assets/84f5f4ed-d83e-41c2-bdd7-4c90b4c80ce4" />
+<br>
+<br>
 
 ## 📢 기술 스택 소개
-
 #### Big-data distribution
 ![Hadoop](https://img.shields.io/badge/Hadoop-3.3.6-66CCFF?logo=apachehadoop)
 ![Spark](https://img.shields.io/badge/Apache%20Spark-3.5.0-E25A1C?logo=apachespark)
